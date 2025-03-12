@@ -15,4 +15,6 @@ CSS – For styling and adding animations.
 JavaScript – For handling interactivity like scroll and hover effects.
 
 Output:-
-    
+   ![Image](https://github.com/user-attachments/assets/2d28ff73-1c6a-4b93-bd8e-24bed11912f0)
+![Image](https://github.com/user-attachments/assets/8bfaec21-e34d-44ac-a343-2a9620eec74f)
+![Image](https://github.com/user-attachments/assets/9187bbfe-8689-4daa-b1d2-b61cd8c3b123) 
